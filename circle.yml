@@ -17,5 +17,5 @@ test:
     - ls
     - ifconfig
     - echo HelloWorld from Karthik
-    - py.test ./example/tests/test_helloworld.py
+    - python ./example/tests/test_helloworld.py
     - exit 0
