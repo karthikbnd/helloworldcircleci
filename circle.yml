@@ -1,6 +1,6 @@
 test : 
-  Override : 
+  override : 
     -  pwd ～
     -  ifconfig 
-    -  Echo HelloWorld from Karthik 
-    -  Exit 0
+    -  echo HelloWorld from Karthik 
+    -  exit 0
