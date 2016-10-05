@@ -16,7 +16,5 @@ test:
     - pwd ~
     - ls
     - ifconfig
-    - echo HelloWorld
-    - curl http://127.0.0.1/example
-    - py.test ./example/tests/test_example.py
+    - echo HelloWorld from Karthik
     - exit 0
